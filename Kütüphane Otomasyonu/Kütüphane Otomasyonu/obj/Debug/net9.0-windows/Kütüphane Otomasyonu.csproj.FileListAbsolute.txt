@@ -1,0 +1,58 @@
+C:\Users\Arcgl\Desktop\Gül kütüphanesi v.2\Kütüphane Otomasyonu\Kütüphane Otomasyonu\bin\Debug\net9.0-windows\Kütüphane Otomasyonu.exe
+C:\Users\Arcgl\Desktop\Gül kütüphanesi v.2\Kütüphane Otomasyonu\Kütüphane Otomasyonu\bin\Debug\net9.0-windows\Kütüphane Otomasyonu.deps.json
+C:\Users\Arcgl\Desktop\Gül kütüphanesi v.2\Kütüphane Otomasyonu\Kütüphane Otomasyonu\bin\Debug\net9.0-windows\Kütüphane Otomasyonu.runtimeconfig.json
+C:\Users\Arcgl\Desktop\Gül kütüphanesi v.2\Kütüphane Otomasyonu\Kütüphane Otomasyonu\bin\Debug\net9.0-windows\Kütüphane Otomasyonu.dll
+C:\Users\Arcgl\Desktop\Gül kütüphanesi v.2\Kütüphane Otomasyonu\Kütüphane Otomasyonu\bin\Debug\net9.0-windows\Kütüphane Otomasyonu.pdb
+C:\Users\Arcgl\Desktop\Gül kütüphanesi v.2\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\net9.0-windows\Kütüphane_Otomasyonu.AnaForm.resources
+C:\Users\Arcgl\Desktop\Gül kütüphanesi v.2\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\net9.0-windows\Kütüphane Otomasyonu.csproj.GenerateResource.cache
+C:\Users\Arcgl\Desktop\Gül kütüphanesi v.2\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\net9.0-windows\Kütüphane Otomasyonu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arcgl\Desktop\Gül kütüphanesi v.2\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\net9.0-windows\Kütüphane Otomasyonu.AssemblyInfoInputs.cache
+C:\Users\Arcgl\Desktop\Gül kütüphanesi v.2\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\net9.0-windows\Kütüphane Otomasyonu.AssemblyInfo.cs
+C:\Users\Arcgl\Desktop\Gül kütüphanesi v.2\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\net9.0-windows\Kütüphane Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Arcgl\Desktop\Gül kütüphanesi v.2\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\net9.0-windows\Kütüphane Otomasyonu.dll
+C:\Users\Arcgl\Desktop\Gül kütüphanesi v.2\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\net9.0-windows\refint\Kütüphane Otomasyonu.dll
+C:\Users\Arcgl\Desktop\Gül kütüphanesi v.2\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\net9.0-windows\Kütüphane Otomasyonu.pdb
+C:\Users\Arcgl\Desktop\Gül kütüphanesi v.2\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\net9.0-windows\Kütüphane Otomasyonu.genruntimeconfig.cache
+C:\Users\Arcgl\Desktop\Gül kütüphanesi v.2\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\net9.0-windows\ref\Kütüphane Otomasyonu.dll
+C:\Users\Arcgl\Desktop\Gül kütüphanesi v.2\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\net9.0-windows\Kütüphane_Otomasyonu.Properties.Resources.resources
+C:\Users\Arcgl\Desktop\Gül kütüphanesi v.2\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\net9.0-windows\Kütüphane_Otomasyonu.Gris.resources
+C:\Users\Arcgl\Desktop\Kütüphane son\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\net9.0-windows\Kütüphane_Otomasyonu.AnaForm.resources
+C:\Users\Arcgl\Desktop\Kütüphane son\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\net9.0-windows\Kütüphane_Otomasyonu.Gris.resources
+C:\Users\Arcgl\Desktop\Kütüphane son\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\net9.0-windows\Kütüphane_Otomasyonu.Properties.Resources.resources
+C:\Users\Arcgl\Desktop\Kütüphane son\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\net9.0-windows\Kütüphane Otomasyonu.csproj.GenerateResource.cache
+C:\Users\Arcgl\Desktop\Kütüphane son\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\net9.0-windows\Kütüphane Otomasyonu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arcgl\Desktop\Kütüphane son\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\net9.0-windows\Kütüphane Otomasyonu.AssemblyInfoInputs.cache
+C:\Users\Arcgl\Desktop\Kütüphane son\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\net9.0-windows\Kütüphane Otomasyonu.AssemblyInfo.cs
+C:\Users\Arcgl\Desktop\Kütüphane son\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\net9.0-windows\Kütüphane Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Arcgl\Desktop\Kütüphane son\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\net9.0-windows\Kütüphane Otomasyonu.dll
+C:\Users\Arcgl\Desktop\Kütüphane son\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\net9.0-windows\refint\Kütüphane Otomasyonu.dll
+C:\Users\Arcgl\Desktop\Kütüphane son\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\net9.0-windows\Kütüphane Otomasyonu.pdb
+C:\Users\Arcgl\Desktop\Kütüphane son\Kütüphane Otomasyonu\Kütüphane Otomasyonu\bin\Debug\net9.0-windows\Kütüphane Otomasyonu.exe
+C:\Users\Arcgl\Desktop\Kütüphane son\Kütüphane Otomasyonu\Kütüphane Otomasyonu\bin\Debug\net9.0-windows\Kütüphane Otomasyonu.deps.json
+C:\Users\Arcgl\Desktop\Kütüphane son\Kütüphane Otomasyonu\Kütüphane Otomasyonu\bin\Debug\net9.0-windows\Kütüphane Otomasyonu.runtimeconfig.json
+C:\Users\Arcgl\Desktop\Kütüphane son\Kütüphane Otomasyonu\Kütüphane Otomasyonu\bin\Debug\net9.0-windows\Kütüphane Otomasyonu.dll
+C:\Users\Arcgl\Desktop\Kütüphane son\Kütüphane Otomasyonu\Kütüphane Otomasyonu\bin\Debug\net9.0-windows\Kütüphane Otomasyonu.pdb
+C:\Users\Arcgl\Desktop\Kütüphane son\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\net9.0-windows\Kütüphane Otomasyonu.genruntimeconfig.cache
+C:\Users\Arcgl\Desktop\Kütüphane son\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\net9.0-windows\ref\Kütüphane Otomasyonu.dll
+C:\Users\Arcgl\Desktop\Kütüphane son\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\net9.0-windows\Kütüphane_Otomasyonu.KitapIslemler.resources
+C:\Users\Arcgl\Desktop\Kütüphane son\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\net9.0-windows\Kütüphane_Otomasyonu.Yönetici.resources
+C:\Users\Arcgl\Desktop\Çalışma\kütüphane\Kütüphane son\Kütüphane Otomasyonu\Kütüphane Otomasyonu\bin\Debug\net9.0-windows\Kütüphane Otomasyonu.exe
+C:\Users\Arcgl\Desktop\Çalışma\kütüphane\Kütüphane son\Kütüphane Otomasyonu\Kütüphane Otomasyonu\bin\Debug\net9.0-windows\Kütüphane Otomasyonu.deps.json
+C:\Users\Arcgl\Desktop\Çalışma\kütüphane\Kütüphane son\Kütüphane Otomasyonu\Kütüphane Otomasyonu\bin\Debug\net9.0-windows\Kütüphane Otomasyonu.runtimeconfig.json
+C:\Users\Arcgl\Desktop\Çalışma\kütüphane\Kütüphane son\Kütüphane Otomasyonu\Kütüphane Otomasyonu\bin\Debug\net9.0-windows\Kütüphane Otomasyonu.dll
+C:\Users\Arcgl\Desktop\Çalışma\kütüphane\Kütüphane son\Kütüphane Otomasyonu\Kütüphane Otomasyonu\bin\Debug\net9.0-windows\Kütüphane Otomasyonu.pdb
+C:\Users\Arcgl\Desktop\Çalışma\kütüphane\Kütüphane son\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\net9.0-windows\Kütüphane_Otomasyonu.AnaForm.resources
+C:\Users\Arcgl\Desktop\Çalışma\kütüphane\Kütüphane son\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\net9.0-windows\Kütüphane_Otomasyonu.Gris.resources
+C:\Users\Arcgl\Desktop\Çalışma\kütüphane\Kütüphane son\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\net9.0-windows\Kütüphane_Otomasyonu.KitapIslemler.resources
+C:\Users\Arcgl\Desktop\Çalışma\kütüphane\Kütüphane son\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\net9.0-windows\Kütüphane_Otomasyonu.Properties.Resources.resources
+C:\Users\Arcgl\Desktop\Çalışma\kütüphane\Kütüphane son\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\net9.0-windows\Kütüphane_Otomasyonu.Yönetici.resources
+C:\Users\Arcgl\Desktop\Çalışma\kütüphane\Kütüphane son\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\net9.0-windows\Kütüphane Otomasyonu.csproj.GenerateResource.cache
+C:\Users\Arcgl\Desktop\Çalışma\kütüphane\Kütüphane son\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\net9.0-windows\Kütüphane Otomasyonu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arcgl\Desktop\Çalışma\kütüphane\Kütüphane son\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\net9.0-windows\Kütüphane Otomasyonu.AssemblyInfoInputs.cache
+C:\Users\Arcgl\Desktop\Çalışma\kütüphane\Kütüphane son\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\net9.0-windows\Kütüphane Otomasyonu.AssemblyInfo.cs
+C:\Users\Arcgl\Desktop\Çalışma\kütüphane\Kütüphane son\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\net9.0-windows\Kütüphane Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Arcgl\Desktop\Çalışma\kütüphane\Kütüphane son\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\net9.0-windows\Kütüphane Otomasyonu.dll
+C:\Users\Arcgl\Desktop\Çalışma\kütüphane\Kütüphane son\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\net9.0-windows\refint\Kütüphane Otomasyonu.dll
+C:\Users\Arcgl\Desktop\Çalışma\kütüphane\Kütüphane son\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\net9.0-windows\Kütüphane Otomasyonu.pdb
+C:\Users\Arcgl\Desktop\Çalışma\kütüphane\Kütüphane son\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\net9.0-windows\Kütüphane Otomasyonu.genruntimeconfig.cache
+C:\Users\Arcgl\Desktop\Çalışma\kütüphane\Kütüphane son\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\net9.0-windows\ref\Kütüphane Otomasyonu.dll

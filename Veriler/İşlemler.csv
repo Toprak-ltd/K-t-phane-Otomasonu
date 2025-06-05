@@ -1,0 +1,22 @@
+2025-05-26 04:16:43;Yönetici;Kitap Eklendi;ISBN: 2, İsim: 2
+2025-05-26 04:17:29;13547924611;Kitap Teslim Alındı;ISBN: 9789753638021
+2025-05-26 06:00:40;Yönetici;Kullanıcı Silindi;TCKN: 13547924654
+2025-05-26 06:05:06;Yönetici;Kullanıcı Silindi;TCKN: 2
+2025-05-26 06:07:21;Yönetici;Kullanıcı Eklendi;İsim: ali veli, TCKN: 12345678910, Telefon: 05449876545
+2025-05-26 06:07:27;Yönetici;Kullanıcı Silindi;TCKN: 12345678910
+2025-05-26 06:28:44;Yönetici;Personel Silindi;TCKN: 3
+2025-05-26 06:35:57;Yönetici;Personel Eklendi;İsim: ali, Mevki: Personel
+2025-05-26 06:45:24;Yönetici;Kullanıcı Silindi;TCKN: 111
+2025-05-26 06:45:29;Yönetici;Personel Silindi;TCKN: ali
+2025-05-26 10:02:56;Kerem Başar;Kitap Ödünç Verildi;TCKN: 13547924614, ISBN: 9789753638021
+2025-05-26 10:03:04;13547924614;Kitap Teslim Alındı;ISBN: 9789753638021
+2025-05-27 01:38:42;Yönetici;Personel Eklendi;İsim: Bülent emin dal, Mevki: Personel
+2025-05-27 01:39:10;Yönetici;Personel Eklendi;İsim: alper aydın, Mevki: Personel
+2025-05-27 01:41:15;Mert Uzun;Kitap Ödünç Verildi;TCKN: 13547924625, ISBN: 9786050910087
+2025-05-27 01:41:37;13547924625;Kitap Teslim Alındı;ISBN: 9786050910087
+2025-06-05 23:12:13;Kerem Başar;Kitap Ödünç Verildi;TCKN: 13547924614, ISBN: 9789753638021
+2025-06-05 23:12:27;Yönetici;Kitap Eklendi;ISBN: 3231231, İsim: IEWBF
+2025-06-05 23:12:48;13547924614;Kitap Teslim Alındı;ISBN: 9789753638021
+2025-06-05 23:12:55;Yönetici;Kitap Silindi;ISBN: 3231231
+2025-06-05 23:13:52;Yönetici;Kullanıcı Eklendi;İsim: kemal tarık Arıcıoğlu, TCKN: 12345678910, Telefon: 0544874585
+2025-06-05 23:14:10;Yönetici;Personel Eklendi;İsim: Kemal tarık, Mevki: Personel
