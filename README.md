@@ -1,2 +1,2 @@
 # K-t-phane-Otomasonu
-## birşeyler
+## Yarişmacı arkadaşlara başarılar dilerim
